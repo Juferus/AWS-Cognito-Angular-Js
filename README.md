@@ -10,3 +10,7 @@ Run `grunt` for building and `grunt serve` for preview.
 ## Testing
 
 Running `grunt test` will run the unit tests with karma.
+
+## Configurate facebook & AWS credentials
+
+Change the credentials on login.html and facebook.js

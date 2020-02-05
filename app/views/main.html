@@ -21,3 +21,9 @@
   <h4>Karma</h4>
   <p>Spectacular Test Runner for JavaScript.</p>
 </div>
+<script>
+  if (sessionStorage.getItem('recordAWS') != null) {
+    let records = sessionStorage.getItem('recordAWS');
+    console.log('RECORDS DESDE EL MAIN: ', records);
+  }
+</script>
