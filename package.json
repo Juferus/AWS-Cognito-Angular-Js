@@ -41,7 +41,7 @@
     "@uirouter/angularjs": "^1.0.24",
     "angular-route": "^1.7.9",
     "angularjs-facebook": "^0.2.3",
-    "aws-sdk": "^2.610.0",
+    "aws-sdk": "^2.1373.0",
     "bootstrap": "^4.4.1",
     "colors": "^1.4.0"
   }
